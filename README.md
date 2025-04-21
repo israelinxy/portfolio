@@ -8,7 +8,7 @@ Este proyecto presenta un portfolio a modo responsive.
   <img src="resultado_desktop.png" alt="Header de un negocio de belleza" width="100%"/>
 </div>
 <div align="center">
-  <img src="resultado_tablet.png" alt="Header de un negocio de belleza" width="80%"/>
+  <img src="resultado_tablet.png" alt="Header de un negocio de belleza" width="65%"/>
 </div>
 <div align="center">
   <img src="resultado_mobile.png" alt="Header de un negocio de belleza" width="40%"/>
